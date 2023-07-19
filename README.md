@@ -1,4 +1,4 @@
-# JavaMigration
+# 2024dev
 
 File system you will work in is src/main/com/team2367/frc2024
 
@@ -9,4 +9,4 @@ Robot.java is the same as Robot.cpp, that is the "main" file (It has the teleop/
 Constants will contain robot details/IDs
 
 Modules will contain the code for drive systems, manipulators, etc.
-# 2024dev
+
